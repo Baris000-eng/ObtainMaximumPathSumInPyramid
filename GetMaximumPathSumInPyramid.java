@@ -1,8 +1,8 @@
 package proj;
 import java.io.*;
-
-import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.ArrayList;
+
 
 
  class GetMaximumPathSumInPyramid {
